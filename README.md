@@ -36,4 +36,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
