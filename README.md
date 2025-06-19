@@ -46,4 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
