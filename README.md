@@ -14,9 +14,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -57,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
