@@ -66,13 +66,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
