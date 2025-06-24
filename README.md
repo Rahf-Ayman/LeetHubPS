@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0871-keys-and-rooms) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0871-keys-and-rooms) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0871-keys-and-rooms) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -92,4 +95,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
