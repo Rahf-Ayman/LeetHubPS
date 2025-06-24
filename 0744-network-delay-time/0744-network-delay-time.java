@@ -1,7 +1,7 @@
 class Solution {
     public  int networkDelayTime(int[][] times, int n, int k) {
         List<List<Node>> graph = new ArrayList<>();
-        int[] dist = new int[n + 1]; // 1-based
+        int[] dist = new int[n + 1]; // 1-indexed
         for (int i = 0; i <= n; i++) {
             graph.add(new ArrayList<>());
         }
@@ -14,7 +14,8 @@ class Solution {
 
         int maxTime = 0;
         for (int i = 1; i <= n; i++) {
-            if (dist[i] == Integer.MAX_VALUE) return -1;
+            if (dist[i] == Integer.MAX_VALUE) 
+            return -1;
             maxTime = Math.max(maxTime, dist[i]);
         }
 
@@ -26,11 +27,12 @@ class Solution {
         dist[start] = 0;
 
         PriorityQueue<Node> queue = new PriorityQueue<>(Comparator.comparingInt(x -> x.w));
-        queue.add(new Node(start, 0));
+        queue.add(new Node(start, 0)); // dummy
 
         while (!queue.isEmpty()) {
             Node current = queue.poll();
-            if (dist[current.u] < current.w) continue; // Already processed shorter path
+            if (dist[current.u] < current.w) 
+            continue; // there is another object for the same node with shorter path
 
             for (Node neighbor : graph.get(current.u)) {
                 int calculatedDist = dist[current.u] + neighbor.w;
