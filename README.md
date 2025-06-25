@@ -10,11 +10,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0871-keys-and-rooms) |
+| [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1442-number-of-operations-to-make-network-connected) |
