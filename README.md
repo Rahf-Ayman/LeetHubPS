@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
 |  |
 | ------- |
