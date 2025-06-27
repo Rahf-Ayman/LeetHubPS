@@ -9,18 +9,24 @@ class Solution {
             graph.get(edge[0]).add(edge[1]);
             graph.get(edge[1]).add(edge[0]);
         }
-        DFS(source , graph ,visited);
-        return visited.contains(destination);
+
+        return DFS(source , destination, graph ,visited);
     }
 
-    public void DFS(int n, List<List<Integer>> graph , Set<Integer> visited ){
+    public boolean  DFS(int n ,int dst, List<List<Integer>> graph , Set<Integer> visited ){
+        if(n == dst){
+            return true;
+        }
         if(!visited.contains(n)){
             visited.add(n);
 
             List<Integer> neighbors = graph.get(n);
             for(int neighbor : neighbors){
-                DFS(neighbor, graph ,visited );
+                if(DFS(neighbor ,dst, graph ,visited )){
+                    return true;
+                }
             }
         }
+        return false;
     }
 }
