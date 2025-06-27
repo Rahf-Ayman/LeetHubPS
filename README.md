@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1229-shortest-path-with-alternating-colors](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1916-find-center-of-star-graph](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1916-find-center-of-star-graph) |
 ## Backtracking
 |  |
 | ------- |
