@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i">3627. Find Minimum Time to Reach Last Room I</a></h2><h3>Medium</h3><hr><p>There is a dungeon with <code>n x m</code> rooms arranged as a grid.</p>
+<h2><a href="https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/?envType=problem-list-v2&envId=graph">3627. Find Minimum Time to Reach Last Room I</a></h2><h3>Medium</h3><hr><p>There is a dungeon with <code>n x m</code> rooms arranged as a grid.</p>
 
 <p>You are given a 2D array <code>moveTime</code> of size <code>n x m</code>, where <code>moveTime[i][j]</code> represents the <strong>minimum</strong> time in seconds <strong>after</strong> which the room opens and can be moved to. You start from the room <code>(0, 0)</code> at time <code>t = 0</code> and can move to an <strong>adjacent</strong> room. Moving between adjacent rooms takes <em>exactly</em> one second.</p>
 
