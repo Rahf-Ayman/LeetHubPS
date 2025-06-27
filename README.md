@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1916-find-center-of-star-graph](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2121-find-if-path-exists-in-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,13 +118,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0025-reverse-nodes-in-k-group) |
+## Matrix
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
