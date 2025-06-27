@@ -1,8 +1,8 @@
 class Solution {
     public  int minTimeToReach(int[][] moveTime) {
-
         return shortestPath(moveTime);
     }
+    
     public  int shortestPath(int[][] moveTime){
         int [] x = {-1 , 1 , 0 , 0}; // up down left right
         int [] y = {0 , 0 , -1 , 1};
@@ -18,13 +18,8 @@ class Solution {
         queue.add(new Pair(0 ,0 , 0 , 0)); // dummy
 
         while (!queue.isEmpty()) {
-//            Pair past = null;
-            Pair current = queue.poll();
-//            if( past != null && current.current < past.current )
-//                c--;
-//            else
-//                c++;
 
+            Pair current = queue.poll();
             if (dist[current.x][current.y] < current.w) continue; // Already processed shorter path
             for(int i = 0 ; i < 4 ; i++){
                 int newx = current.x + x[i];
@@ -44,7 +39,7 @@ class Solution {
                     queue.add(new Pair(neighbor.x , neighbor.y , calculatedDist, current.level + 1));
                 }
             }
-//            past = current;
+
         }
         return dist[moveTime.length - 1][moveTime[0].length - 1] ;
     }
@@ -52,14 +47,12 @@ class Solution {
         int x;
         int y;
         int w;
-
         int level;
 
         public Pair(int x  , int y , int w  ,int level){
             this.x = x;
             this.w = w;
             this.y = y;
-
             this.level = level;
         }
     }
