@@ -44,11 +44,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0070-climbing-stairs) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
