@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Math
