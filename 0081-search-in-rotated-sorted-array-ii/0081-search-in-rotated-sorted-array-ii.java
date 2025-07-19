@@ -1,8 +1,8 @@
 class Solution {
     public  boolean search(int[] nums, int target) {
-        int pivot = findPivot(nums) - 1;
-        int l = pivot + 1;
-        int r = (pivot + nums.length);
+        int pivot = findPivot(nums) ;
+        int l = pivot ;
+        int r = (pivot + nums.length - 1);
 
         while( l <= r){
             int imid = (l + (r - l) / 2 );
