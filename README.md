@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
 ## Sliding Window
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 ## Bitmask
 |  |
