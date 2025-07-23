@@ -14,26 +14,33 @@
  * }
  */
 class Solution {
+    public int  getLeftHeight(TreeNode root){
+        int h = 0;
+        while(root != null){
+            root = root.left;
+            h++;
+        }
+        return h ;
+    }
+
+    public int  getReightHeight(TreeNode root){
+        int h = 0;
+        while(root != null){
+            root = root.right;
+            h++;
+        }
+        return h ;
+    }
     public int countNodes(TreeNode root) {
-        int c = 1;
-        Queue<TreeNode> qu = new ArrayDeque<>();
         if(root == null){
-            return 0;
+            return 0; // base case
         }
-        qu.add(root);
-        while(!qu.isEmpty()){
-            TreeNode curr = qu.poll();
-            if(curr.left != null){
-                qu.add(curr.left);
-                c++;
-            }
-            if(curr.right != null){
-                qu.add(curr.right); 
-                c++;
-            }
-            
-            
+        int l = getLeftHeight(root);
+        int r = getReightHeight(root);
+
+        if(l == r){
+            return  (int) Math.pow(2 , l) - 1; //complete BT
         }
-        return c;
+        return countNodes(root.left) + countNodes(root.right) + 1;
     }
 }
