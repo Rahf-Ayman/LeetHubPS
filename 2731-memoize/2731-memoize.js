@@ -13,7 +13,7 @@ function memoize(fn) {
       return cache[key];
     }
     
-    const result = fn.apply(this, args);
+    let result = fn(...args);
     cache[key] = result;
     
     return result;
