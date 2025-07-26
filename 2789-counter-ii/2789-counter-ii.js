@@ -5,16 +5,15 @@
 var createCounter = function(init) {
     let c = init;
     return {
-        increment: function(){
-            return ++c;
-        },
-        reset: function(){
+        increment: _ => ++c
+        ,
+        reset: _ =>{
             c = init;
             return c;
         },
-        decrement: function(){
-            return --c;
-        }
+        decrement: _ => --c
+        
+        
     }
 };
 
