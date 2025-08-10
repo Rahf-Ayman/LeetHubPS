@@ -55,11 +55,8 @@ let merge = function(arr , l, mid , r , fn){
     }
 }
 var sortBy = function(arr, fn) {
-    let l = 0;
-    let r = arr.length - 1;
-
-    mergeSort(arr , 0 , arr.length - 1, fn );
-    
+    // mergeSort(arr , 0 , arr.length - 1, fn );
+    arr.sort((a , b) => fn(a) - fn(b));
 
 
 
