@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0436-find-right-interval) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0713-subarray-product-less-than-k) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0436-find-right-interval) |
 ## Tree
 |  |
