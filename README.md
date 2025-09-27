@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0713-subarray-product-less-than-k) |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Rolling Hash
 |  |
 | ------- |
