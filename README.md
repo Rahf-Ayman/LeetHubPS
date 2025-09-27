@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Linked List
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Tree
 |  |
 | ------- |
@@ -269,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
+## Line Sweep
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
