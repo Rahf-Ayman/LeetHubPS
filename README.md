@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
+| [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
+| [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 ## Tree
 |  |
 | ------- |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0713-subarray-product-less-than-k) |
+| [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -258,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Simulation
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
