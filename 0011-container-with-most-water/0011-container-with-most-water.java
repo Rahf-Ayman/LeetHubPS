@@ -10,11 +10,8 @@ class Solution {
             }else if(height[l] < height[r]){
                 l++;
             }else{
-                if(height[l + 1] > height[r - 1]){
-                    l++;
-                }else{
-                    r--;
-                }
+                l++;
+                r--;
             }
         }
         return area;
