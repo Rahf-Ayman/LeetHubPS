@@ -1,25 +1,15 @@
 class Solution {
     public static boolean canJump(int[] nums) {
-        Boolean []arr = new Boolean[nums.length];
-        return go(nums, 0 , arr);
-    }
-    public static boolean go(int[] nums, int pos ,Boolean []arr ) {
-        if (pos >= nums.length - 1) {
-            return true;
-        }
-        if (nums[pos] == 0) {
-            return false;
-        }
-        if(arr[pos] != null){
-            return arr[pos];
-        }
-        for (int i = nums[pos]; i > 0; i--) {
-            if (go(nums, pos + i ,arr)) {
-                arr[pos] = true;
+        int maxPos = 0;
+        for(int i = 0;i < nums.length;i++){
+            if(i > maxPos){
+                return false; // not reachable
+            }
+            maxPos = Math.max(maxPos , i + nums[i]);
+            if(maxPos >= nums.length - 1){
                 return true;
             }
         }
-        arr[pos] = false;
         return false;
     }
 }
