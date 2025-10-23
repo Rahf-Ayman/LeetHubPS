@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0219-contains-duplicate-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Depth-First Search
@@ -217,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -264,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Tree
