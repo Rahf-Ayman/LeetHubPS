@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0119-pascals-triangle-ii) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 ## Union Find
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
