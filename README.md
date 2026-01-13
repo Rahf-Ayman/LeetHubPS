@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0069-sqrtx](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0089-gray-code) |
 | [1013-fibonacci-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0046-permutations](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0089-gray-code) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 ## Union Find
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
