@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bitmask
 |  |
 | ------- |
