@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0330-patching-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0376-wiggle-subsequence) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bitmask
