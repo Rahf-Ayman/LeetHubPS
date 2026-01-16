@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
 | ------- |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bitmask
 |  |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Line Sweep
 |  |
 | ------- |
