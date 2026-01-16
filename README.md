@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0491-non-decreasing-subsequences](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0491-non-decreasing-subsequences) |
 | [0503-next-greater-element-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0624-maximum-distance-in-arrays) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0491-non-decreasing-subsequences) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0089-gray-code) |
+| [0491-non-decreasing-subsequences](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1359-circular-permutation-in-binary-representation) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
+| [0491-non-decreasing-subsequences](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
