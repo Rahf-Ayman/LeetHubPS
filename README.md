@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0871-keys-and-rooms) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1359-circular-permutation-in-binary-representation](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bitmask
 |  |
@@ -324,10 +327,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
