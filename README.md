@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0055-jump-game) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0503-next-greater-element-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0503-next-greater-element-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0070-climbing-stairs) |
@@ -190,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
