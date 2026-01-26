@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0089-gray-code) |
+| [0090-subsets-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0260-single-number-iii) |
