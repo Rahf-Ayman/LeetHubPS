@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0118-pascals-triangle) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0491-non-decreasing-subsequences) |
@@ -320,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
