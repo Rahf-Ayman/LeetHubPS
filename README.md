@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0491-non-decreasing-subsequences) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
