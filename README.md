@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0055-jump-game) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0219-contains-duplicate-ii) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0125-valid-palindrome) |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0242-valid-anagram) |
