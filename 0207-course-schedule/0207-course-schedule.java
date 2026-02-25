@@ -1,42 +1,32 @@
-public class Solution {
-   
-    private Map<Integer, List<Integer>> preMap = new HashMap<>();
-   
-    private Set<Integer> visiting = new HashSet<>();
-
+class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        for (int i = 0; i < numCourses; i++) {
-            preMap.put(i, new ArrayList<>());
+        List<List<Integer>> adj = new ArrayList<>();
+        HashSet<Integer> set = new HashSet<>();
+        for(int i = 0;i < numCourses;i++){
+            adj.add(new ArrayList<>());
         }
-        for (int[] prereq : prerequisites) {
-            preMap.get(prereq[0]).add(prereq[1]);
+        for(int [] i : prerequisites){
+            adj.get(i[0]).add(i[1]);
         }
-
-        for (int c = 0; c < numCourses; c++) {
-            if (!dfs(c)) {
+        for(int i = 0;i < numCourses;i++){
+            if(!DFS(adj,set,i)){
                 return false;
             }
         }
+
         return true;
     }
-
-    private boolean dfs(int crs) {
-        if (visiting.contains(crs)) {
-         
-            return false;
-        }
-        if (preMap.get(crs).isEmpty()) {
-            return true;
-        }
-
-        visiting.add(crs);
-        for (int pre : preMap.get(crs)) {
-            if (!dfs(pre)) {
+    public boolean DFS(List<List<Integer>> adj ,HashSet<Integer> set ,int i){
+        if(set.contains(i)) return false;
+        if(adj.get(i).isEmpty()) return true;
+        set.add(i);
+        for(int node : adj.get(i)){
+            if(!DFS(adj,set,node)){
                 return false;
             }
         }
-        visiting.remove(crs);
-        preMap.put(crs, new ArrayList<>());
+        set.remove(i);
+        adj.set(i, new ArrayList<>());
         return true;
     }
 }
