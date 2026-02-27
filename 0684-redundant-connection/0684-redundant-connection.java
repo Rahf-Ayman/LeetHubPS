@@ -1,40 +1,39 @@
 
     public class Solution {
-    public int[] findRedundantConnection(int[][] edges) {
-        int n = edges.length;
-        List<List<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i <= n; i++) {
-            adj.add(new ArrayList<>());
+     public int[] findRedundantConnection(int[][] edges) {
+        int parent[] = new int [edges.length + 1];
+        int rank[] = new int [edges.length + 1];
+        for(int i = 1;i <= edges.length;i++){
+            parent[i] = i;
+            rank[i] = 1;
         }
-
-        for (int[] edge : edges) {
-            int u = edge[0], v = edge[1];
-            adj.get(u).add(v);
-            adj.get(v).add(u);
-            boolean[] visit = new boolean[n + 1];
-
-            if (dfs(u, -1, adj, visit)) {
-                return edge;
+        for(int []i : edges){
+            if(!union(parent,rank,i[0],i[1])){
+                return i;
             }
         }
-        return new int[0];
+        return new int [0];
     }
+    public boolean union(int [] parent,int [] rank,int i,int j){
+        int p1 = find(parent,i);
+        int p2 = find(parent,j);
 
-    private boolean dfs(int node, int parent,
-                        List<List<Integer>> adj, boolean[] visit) {
-        if (visit[node]) {
-            return true;
+        if(p1 == p2) return false; // this edge make a cycle
+
+        if(rank[p1] > rank[p2]){ // connect small tree under large
+            parent[p2] = p1;
+            rank[p1] += rank[p2];
+        }else{
+            parent[p1] = p2;
+            rank[p2] += rank[p1];
         }
 
-        visit[node] = true;
-        for (int nei : adj.get(node)) {
-            if (nei == parent) {
-                continue;
-            }
-            if (dfs(nei, node, adj, visit)) {
-                return true;
-            }
+        return true;
+    }
+    public int find(int [] parent,int i){
+        if(parent[i] == i){
+            return i;
         }
-        return false;
+        return find(parent, parent[i]);
     }
 }
