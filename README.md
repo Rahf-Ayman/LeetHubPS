@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0330-patching-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
+| [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0695-max-area-of-island) |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0239-sliding-window-maximum) |
+| [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
@@ -408,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
@@ -472,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0684-redundant-connection) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
@@ -483,4 +489,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1706-min-cost-to-connect-all-points) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
