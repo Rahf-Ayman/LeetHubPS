@@ -1,31 +1,32 @@
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        Map<String,Integer> memo = new HashMap<>();
         Map<Integer,List<int []>> map = new HashMap<>();
+        PriorityQueue<int []> queue = new PriorityQueue<>(Comparator.comparingInt(a -> a[1]));
+        int [][] res = new int [n][k + 2]; // states for cities and their stops
+        for(int i =0 ;i < n;i++){
+            Arrays.fill(res[i],Integer.MAX_VALUE);
+        }
         for(int [] flight: flights){
             map.putIfAbsent(flight[0],new ArrayList<>());
             map.get(flight[0]).add(new int []{flight[1],flight[2]});
         }
-        int res = DFS(map,src,dst,0,k,memo);
-        return res == Integer.MAX_VALUE? -1 : res ;
-    }
-    public static int DFS(Map<Integer,List<int []>> map,int src ,int dist ,int level ,int k ,Map<String,Integer> memo ){
-        
-        if(src == dist) return 0;
-        if(level > k) return Integer.MAX_VALUE;
-        
-        String str = src + "," + level;
-        if(memo.containsKey(str)) return memo.get(str);
-        int cost = Integer.MAX_VALUE;
 
-        for(int[] nei : map.getOrDefault(src,new ArrayList<>())){
+        queue.add(new int []{src ,0,0});
+        while(!queue.isEmpty()){
+           int [] curr = queue.poll();
+           int node = curr[0]; int cost = curr[1]; int stops = curr[2];
+           if(curr[0] == dst) return  cost;
+           if(stops > k || res[node][stops] < cost) continue;
+           for(int [] nei : map.getOrDefault(curr[0],new ArrayList<>())){
+               int wei = nei[1] + cost;
+               int nextStop = stops + 1;
+               if(wei < res[nei[0]][nextStop]){
+                   res[nei[0]][nextStop] = wei;
+                   queue.add(new int []{nei[0], nei[1] + cost, nextStop});
+               }
 
-            int currCost = DFS(map,nei[0],dist,level + 1,k,memo);
-            if(currCost != Integer.MAX_VALUE){
-                cost = Math.min(cost ,currCost + nei[1]);
-            }
+           }
         }
-        memo.put(str,cost);
-        return cost;
+        return -1;
     }
 }
