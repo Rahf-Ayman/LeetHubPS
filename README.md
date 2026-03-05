@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0871-keys-and-rooms) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -492,12 +494,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0820-find-eventual-safe-states) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0820-find-eventual-safe-states) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
