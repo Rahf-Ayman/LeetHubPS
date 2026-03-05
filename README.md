@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0503-next-greater-element-ii) |
