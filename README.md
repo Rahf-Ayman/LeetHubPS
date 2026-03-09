@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0684-redundant-connection) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0695-max-area-of-island) |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -456,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Prefix Sum
 |  |
