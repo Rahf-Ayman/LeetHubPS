@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0744-network-delay-time) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0543-diameter-of-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0543-diameter-of-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Prefix Sum
 |  |
