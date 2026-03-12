@@ -14,24 +14,21 @@
  * }
  */
 class Solution {
-    static boolean isBalanced;
-
     public boolean isBalanced(TreeNode root) {
-        isBalanced = true;
-        dfsTree(root);
-        
-        return isBalanced;
+        boolean isBalanced = true;
+        return dfsTree(root ,isBalanced) != -1;
     }
 
-    public int dfsTree(TreeNode root){
+    public int dfsTree(TreeNode root ,boolean isBalanced){
         if(root == null) return 0;
 
-        int left = dfsTree(root.left);
-        int right = dfsTree(root.right);
+        int left = dfsTree(root.left ,isBalanced);
+        if (left == -1) return -1;
+        int right = dfsTree(root.right,isBalanced);
+        if (right == -1) return -1;
 
         if(Math.abs(left - right) > 1){
-            isBalanced = false;
-            return 0;
+            return -1;
         }
 
         return 1 + Math.max(left ,right);
