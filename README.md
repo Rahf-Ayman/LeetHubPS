@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0127-word-ladder) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
@@ -463,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
