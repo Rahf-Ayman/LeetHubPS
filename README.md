@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0199-binary-tree-right-side-view) |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
@@ -494,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
