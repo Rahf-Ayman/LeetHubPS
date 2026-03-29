@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0543-diameter-of-binary-tree) |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0695-max-area-of-island) |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -503,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -585,4 +590,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
