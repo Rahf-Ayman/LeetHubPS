@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0049-group-anagrams) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0055-jump-game) |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
