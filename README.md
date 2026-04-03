@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
+| [0647-palindromic-substrings](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0747-min-cost-climbing-stairs) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Sliding Window
