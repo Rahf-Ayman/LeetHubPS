@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0332-reconstruct-itinerary) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0435-non-overlapping-intervals) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0695-max-area-of-island) |
