@@ -1,27 +1,27 @@
 class Solution {
     public static int maxSubarraySumCircular(int[] nums) {
-        int totalSum = 0;
-        int minSum = 0;
-        int maxSum = 0;
-        int minRes = nums[0];
-        int maxRes = nums[0];
-        
-        for(int i = 0;i < nums.length;i++){
-            minSum = Math.min(nums[i], minSum + nums[i]);
-            minRes = Math.min(minRes, minSum);
+        int n = nums.length;
+        int maxSuffix [] = new int [nums.length + 1];
 
-            maxSum = Math.max(nums[i], maxSum + nums[i]);
-            maxRes = Math.max(maxRes, maxSum);
-            
-            totalSum += nums[i];
+        maxSuffix[nums.length - 1] = nums[nums.length - 1];
+        int suffix = nums[n - 1];
+        for(int i = n - 2;i >= 0;i--){
+            suffix = suffix + nums[i];
+            maxSuffix[i] = Math.max(maxSuffix[i + 1], suffix);
         }
-        
-        int circularSum = totalSum - minRes;
-        
-        if(minRes == totalSum){ // if all element is negative to not return 0 from circularSum
-            return maxRes;
+
+        int maxRes = nums[0];
+        int max = 0;
+        int prefix = 0;
+
+        int circularSum = nums[0];
+        for(int i = 0;i < n;i++){
+            max = Math.max(max + nums[i],nums[i]);
+            maxRes = Math.max(max,maxRes);
+
+            prefix += nums[i];
+            circularSum = Math.max(circularSum, prefix + maxSuffix[i + 1]);
         }
-        
         return Math.max(maxRes,circularSum);
     }
 }
