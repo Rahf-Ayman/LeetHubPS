@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1250-longest-common-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1250-longest-common-subsequence) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Stack
 |  |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1025-minimum-cost-for-tickets) |
+| [1250-longest-common-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1250-longest-common-subsequence) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
