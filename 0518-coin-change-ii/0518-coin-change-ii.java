@@ -1,22 +1,18 @@
 class Solution {
     public int change(int amount, int[] coins) {
         Arrays.sort(coins);
-        Integer [][] memo = new Integer[coins.length + 1][amount + 1];
-        return dfsChange(coins,0,amount,memo);
-    }
-
-    public int dfsChange(int [] coins, int i, int amount,Integer [][] memo){
-        if(i == coins.length) return 0;
-        if(amount == 0) return 1;
-        if(memo[i][amount] != null) return memo[i][amount];
-
-        int res = 0;
-        if(amount >= coins[i]){
-            res = dfsChange(coins,i ,amount - coins[i],memo);
-            res += dfsChange(coins,i + 1,amount,memo);
+        int [][] dp = new int [coins.length + 1][amount + 1];
+        for(int i = 0;i < coins.length;i++){
+            dp[i][0] = 1;
         }
-
-        memo[i][amount] = res;
-        return memo[i][amount];
+        for(int i = coins.length - 1;i >= 0;i--){ // we make this as i state depend on i + 1 state (future)
+            for(int a = 1;a <= amount;a++){
+                if(a >= coins[i]){
+                    dp[i][a] = dp[i][a - coins[i]];
+                    dp[i][a] += dp[i + 1][a];
+                }
+            }
+        }
+        return dp[0][amount];
     }
 }
