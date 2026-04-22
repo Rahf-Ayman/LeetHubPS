@@ -1,34 +1,53 @@
 class Solution {
     public int longestIncreasingPath(int[][] matrix) {
-        int [][] memo = new int [matrix.length][matrix[0].length];
-        for(int i = 0;i < matrix.length;i++){
-            Arrays.fill(memo[i] ,-1);
-        }
-        int maxLen = 0;
+        int [][] indgree = new int[matrix.length][matrix[0].length];
+
+        int dx[] = {0,0,-1,1};
+        int dy[] = {-1,1,0,0};
+
         for(int i = 0;i < matrix.length;i++){
             for(int j = 0;j < matrix[0].length;j++){
-                maxLen = Math.max(dfsLP(matrix,i,j,Integer.MIN_VALUE,memo) ,maxLen);
+                for(int k = 0;k < dx.length;k++){
+                    int r = i + dx[k];
+                    int c = j + dy[k];
+                    if(r >= 0 && r < matrix.length && c >= 0 && c < matrix[0].length){
+                        if(matrix[i][j] > matrix[r][c]){
+                            indgree[i][j]++; // make directed graph repr num of in direction
+                        }
+                    }
+                }
             }
         }
-        return maxLen;
-    }
 
-    public int dfsLP(int [][] matrix ,int i ,int j,int prevInt, int [][] memo){
-        int dx[] = {0,0,1,-1};
-        int dy[] = {1,-1,0,0};
-
-        int utiliy = 1;
-        if( i < 0 || j < 0 || i >= matrix.length || j >= matrix[0].length || matrix[i][j] <= prevInt) return 0;
-        if(memo[i][j] != -1) return memo[i][j];
-
-        for(int k = 0;k < dx.length;k++){
-            int x = i + dx[k];
-            int y = j + dy[k];
-
-            utiliy = Math.max(utiliy,dfsLP(matrix,x,y,matrix[i][j],memo) + 1);
+        Queue<int []> queue = new ArrayDeque<>();
+        for(int i = 0;i < matrix.length;i++){
+            for(int j = 0;j < matrix[0].length;j++){
+                if(indgree[i][j] == 0){
+                    queue.add(new int []{i,j});
+                }
+            }
         }
-        memo[i][j] = utiliy;
-        return utiliy;
+        int maxLen = 0;
+        while (!queue.isEmpty()){
+            int s = queue.size();
+            for(int i = 0;i < s;i++){
+                int [] node = queue.poll();
+                int r = node[0]; int c = node[1];
+                for(int k = 0;k < dx.length;k++){
+                    int x = r + dx[k];
+                    int y = c + dy[k];
+
+                    if(x >= 0 && x < matrix.length && y >= 0 && y < matrix[0].length && matrix[x][y] > matrix[r][c]){
+                        if(--indgree[x][y] == 0){
+                            queue.offer(new int []{x , y});
+                        }
+                    }
+
+                }
+            }
+            maxLen++; // increase by every level
+        }
+        return maxLen;
     }
 
 
