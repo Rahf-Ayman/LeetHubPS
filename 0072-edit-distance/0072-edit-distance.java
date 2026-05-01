@@ -9,8 +9,8 @@ class Solution {
     }
     
    public int dfsDis(String word1, String word2, int i,int j,int [][]dp){
-        if(i == word1.length()) return word2.length() - j;
-        if(j == word2.length()) return word1.length() - i;
+        if(i == word1.length()) return word2.length() - j; // must ins
+        if(j == word2.length()) return word1.length() - i; // must del
         if(dp[i][j] != -1) return dp[i][j];
         int res = 0;
         if(word1.charAt(i) == word2.charAt(j)){
