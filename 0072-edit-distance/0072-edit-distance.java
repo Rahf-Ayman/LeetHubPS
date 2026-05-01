@@ -4,24 +4,24 @@ class Solution {
         for(int i = 0;i < word1.length();i++){
             Arrays.fill(dp[i], -1);
         }
-        
-        return dfsDis(word1,word2,0,0,dp);
-    }
-    
-   public int dfsDis(String word1, String word2, int i,int j,int [][]dp){
-        if(i == word1.length()) return word2.length() - j; // must ins
-        if(j == word2.length()) return word1.length() - i; // must del
-        if(dp[i][j] != -1) return dp[i][j];
-        int res = 0;
-        if(word1.charAt(i) == word2.charAt(j)){
-            res = dfsDis(word1,word2,i + 1,j + 1,dp);
-        }else{
-            res = dfsDis(word1,word2,i + 1,j,dp) + 1; // del
-            res = Math.min(res , dfsDis(word1,word2,i,j + 1,dp) + 1); // ins
-            res = Math.min(res, dfsDis(word1,word2,i + 1,j + 1,dp) + 1); //replace
+        for(int i = 0;i < word1.length();i++){
+            dp[i][word2.length()] = word1.length() - i;
+            
         }
-
-        dp[i][j] = res;
-        return res;
+        for(int j = 0;j < word2.length();j++){
+            dp[word1.length()][j] = word2.length() - j;
+        }
+        for(int i = word1.length() - 1; i >= 0;i--){
+            for(int j = word2.length() - 1; j >= 0;j--){
+                if(word1.charAt(i) == word2.charAt(j)){
+                    dp[i][j] = dp[i + 1][j + 1];
+                }else{
+                    dp[i][j] = dp[i + 1][j] + 1;
+                    dp[i][j] = Math.min(dp[i][j + 1] + 1,dp[i][j]);
+                    dp[i][j] = Math.min(dp[i + 1][j + 1] + 1,dp[i][j]);
+                }
+            }
+        }
+        return dp[0][0];
     }
 }
