@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0376-wiggle-subsequence) |
