@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-loud-and-rich](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0907-koko-eating-bananas](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0917-boats-to-save-people) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0954-maximum-sum-circular-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1036-rotting-oranges) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0917-boats-to-save-people](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0917-boats-to-save-people) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Monotonic Stack
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0917-boats-to-save-people) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 ## Sliding Window
 |  |
@@ -543,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0658-find-k-closest-elements) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [0917-boats-to-save-people](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Tree
