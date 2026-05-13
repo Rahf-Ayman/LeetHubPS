@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0209-minimum-size-subarray-sum) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1013-fibonacci-number) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1359-circular-permutation-in-binary-representation) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0392-is-subsequence) |
