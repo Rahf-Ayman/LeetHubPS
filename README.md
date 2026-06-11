@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0794-swim-in-rising-water) |
+| [0876-hand-of-straights](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0876-hand-of-straights) |
 | [0881-loud-and-rich](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0881-loud-and-rich) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0907-koko-eating-bananas](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0907-koko-eating-bananas) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0876-hand-of-straights) |
 | [1039-find-the-town-judge](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1039-find-the-town-judge) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0917-boats-to-save-people](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0917-boats-to-save-people) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -548,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0658-find-k-closest-elements) |
+| [0876-hand-of-straights](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0876-hand-of-straights) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0917-boats-to-save-people](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1184-car-pooling) |
