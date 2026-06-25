@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1706-min-cost-to-connect-all-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0917-boats-to-save-people) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
 |  |
 | ------- |
