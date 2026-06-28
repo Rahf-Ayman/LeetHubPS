@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1250-longest-common-subsequence) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0678-valid-parenthesis-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0624-maximum-distance-in-arrays](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0876-hand-of-straights) |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0718-maximum-length-of-repeated-subarray) |
