@@ -1,35 +1,37 @@
 class Solution {
     public int[] minInterval(int[][] intervals, int[] queries) {
-        int [] res = new int [queries.length];
-        Arrays.fill(res, -1);
-        int [][]RangeIntervals = new int[intervals.length][3];
-        for(int i = 0; i < intervals.length; i++){
-            RangeIntervals[i][0] = intervals[i][1] - intervals[i][0] + 1;
-            RangeIntervals[i][1] = intervals[i][0];
-            RangeIntervals[i][2] = intervals[i][1];
+        Arrays.sort(intervals, (a,b) -> a[0] - b[0]);
+        PriorityQueue<int []> minHeap = new PriorityQueue<>((a,b) -> a[0] - b[0]); //(len , ith)
+        List<int []> events = new ArrayList<>();
+        for(int i = 0; i < intervals.length;i++){
+            events.add(new int []{intervals[i][0] ,0,intervals[i][1] - intervals[i][0] + 1,i });
+            events.add(new int []{intervals[i][1] ,2,intervals[i][1] - intervals[i][0] + 1,i });
         }
-        Arrays.sort(RangeIntervals , Comparator.comparingInt(a -> a[1]));
-        int [][] querieswIndex = new int [queries.length][2];
-        for(int i = 0; i < queries.length; i++){
-            querieswIndex[i][0] = i;
-            querieswIndex[i][1] = queries[i];
-        }
-        Arrays.sort(querieswIndex , Comparator.comparingInt(a -> a[1]));
-        
-        PriorityQueue<int []> queue = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-        int j = 0;
-        for(int i = 0; i < queries.length; i++){
-            while(j < RangeIntervals.length && querieswIndex[i][1] >= RangeIntervals[j][1]){
-                queue.offer(RangeIntervals[j]);
-                j++;
-            }
-            while(!queue.isEmpty() && queue.peek()[2] < querieswIndex[i][1]){
-                queue.poll();
-            }
-            if(!queue.isEmpty())
-                res[querieswIndex[i][0]] = queue.peek()[0];
 
+        for(int i = 0; i < queries.length;i++){
+            events.add(new int []{queries[i],1,i});
         }
-        return res;
+        boolean [] inactive = new boolean[intervals.length];
+        
+        // sort time , query before end
+        events.sort( (a,b) -> a[0] != b[0] ? a[0] - b[0] : a[1] - b[1]);
+        int [] ans = new int [queries.length];
+        Arrays.fill(ans , -1);
+        
+        for(int [] event : events){
+            if(event[1] == 0){
+                minHeap.add(new int []{event[2] ,event[3]});
+            }else if(event[1] == 2){
+                inactive[event[3]] = true;
+            }else{
+                while(!minHeap.isEmpty() && inactive[minHeap.peek()[1]]){
+                    minHeap.poll();
+                }
+                if(!minHeap.isEmpty())
+                ans[event[2]] = minHeap.peek()[0];
+            }
+        }
+        
+        return ans;
     }
 }

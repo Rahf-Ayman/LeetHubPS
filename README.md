@@ -706,4 +706,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/0062-unique-paths) |
+## Sweep Line
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/Rahf-Ayman/LeetHubPS/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
