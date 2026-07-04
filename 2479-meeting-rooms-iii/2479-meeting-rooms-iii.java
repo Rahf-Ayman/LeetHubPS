@@ -1,33 +1,39 @@
 class Solution {
     public int mostBooked(int n, int[][] meetings) {
-        Arrays.sort(meetings, (a, b) -> Integer.compare(a[0], b[0]));
-        PriorityQueue<long[]> available = new PriorityQueue<>((a, b) ->
-            a[0] == b[0] ? Long.compare(a[1], b[1]) : Long.compare(a[0], b[0])
-        );
+        Arrays.sort(meetings ,(a ,b) -> a[0] - b[0]);
+        PriorityQueue<Integer> emptyRooms = new PriorityQueue<>();
+        PriorityQueue<long []>  busyRooms = new PriorityQueue<>((a,b) ->
+                a[0] != b[0]? Long.compare(a[0] ,b[0]) : Long.compare(a[1] ,b[1])); // [end , room]
+
+        int [] freq = new int[n];
         for (int i = 0; i < n; i++) {
-            available.offer(new long[]{0, i});
+            emptyRooms.offer(i);
         }
-        int[] count = new int[n];
-
-        for (int[] meeting : meetings) {
-            int start = meeting[0], end = meeting[1];
-            while (!available.isEmpty() && available.peek()[0] < start) {
-                long[] earliest = available.poll();
-                available.offer(new long[]{start, earliest[1]});
+        for(int [] meeting : meetings){
+            long start = (long) meeting[0];
+            long end = (long) meeting[1];
+            while(!busyRooms.isEmpty() && busyRooms.peek()[0] <= start){
+                int room = (int) busyRooms.poll()[1];
+                emptyRooms.offer(room);
             }
 
-            long[] room = available.poll();
-            long endTime = room[0] + (end - start);
-            available.offer(new long[]{endTime, room[1]});
-            count[(int) room[1]]++;
-        }
+            if(emptyRooms.isEmpty()){
+                long [] curr = busyRooms.poll();
+                end = curr[0] + (end - start);
+                emptyRooms.offer((int) curr[1]);
+            }
 
-        int maxRoom = 0;
-        for (int i = 1; i < n; i++) {
-            if (count[i] > count[maxRoom]) {
-                maxRoom = i;
+            int room = emptyRooms.poll();
+            busyRooms.offer(new long []{end , room});
+            freq[room]++;
+        }
+        
+        int minRoom = 0;
+        for(int i = 0; i < n;i++){
+            if(freq[i] > freq[minRoom]){
+                minRoom = i;
             }
         }
-        return maxRoom;
+        return minRoom;
     }
 }
