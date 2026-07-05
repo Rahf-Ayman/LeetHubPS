@@ -1,9 +1,8 @@
 class TrieNode{
-    TrieNode [] childern = new TrieNode[26];
+    HashMap<Character,TrieNode> child = new HashMap<>();
     boolean isEndOfWord = false;
 }
 class Trie {
-
     TrieNode root;
 
     public Trie() {
@@ -13,11 +12,10 @@ class Trie {
     public void insert(String word) {
         TrieNode curr = root;
         for(char c : word.toCharArray()){
-            int index = c -'a';
-            if(curr.childern[index] == null){
-                curr.childern[index] = new TrieNode();
+            if(curr.child.putIfAbsent(c,null) == null){
+                curr.child.put(c , new TrieNode());
             }
-            curr = curr.childern[index]; 
+            curr = curr.child.get(c);
         }
 
         curr.isEndOfWord = true;
@@ -27,12 +25,11 @@ class Trie {
         TrieNode curr = root;
 
         for(char c : word.toCharArray()){
-            int index = c -'a';
-            if(curr.childern[index] == null){
+            if(curr.child.putIfAbsent(c,null) == null){
                 return false;
             }
-            
-            curr = curr.childern[index];  
+
+            curr = curr.child.get(c);
         }
 
         return curr.isEndOfWord;
@@ -42,22 +39,13 @@ class Trie {
         TrieNode curr = root;
 
         for(char c : prefix.toCharArray()){
-            int index = c -'a';
-            if(curr.childern[index] == null){
+            if(curr.child.putIfAbsent(c,null) == null){
                 return false;
             }
-            
-            curr = curr.childern[index]; 
+
+            curr = curr.child.get(c);
         }
 
         return true;
     }
 }
-
-/**
- * Your Trie object will be instantiated and called as such:
- * Trie obj = new Trie();
- * obj.insert(word);
- * boolean param_2 = obj.search(word);
- * boolean param_3 = obj.startsWith(prefix);
- */
